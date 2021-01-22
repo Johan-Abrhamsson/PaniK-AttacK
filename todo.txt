@@ -1,0 +1,43 @@
+PaniK AttacK
+
+Data:
+
+vad allas alingment och färg
+
+vilken stat countern är på
+
+hur många cells alla stack har *
+
+vilken action
+
+vilka id alla cells har
+
+Alla spelares Händer
+
+röster
+
+---
+
+fuktioner:
+
+placeCell()
+pickingupCell()
+Idetify()
+voteing()
+checkforwinner()
+
+---
+
+användargränsnittet:
+
+knappar:
+vilken action.
+vem man röstar på.
+
+Slider?:
+vilken stack man väljer för allt
+
+---
+
+Vilka inputs:
+

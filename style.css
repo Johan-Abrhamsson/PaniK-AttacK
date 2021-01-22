@@ -1,0 +1,10 @@
+head {
+  color: black;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  margin: 1.5rem;
+  color: black;
+}
