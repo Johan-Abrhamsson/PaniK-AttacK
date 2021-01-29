@@ -41,6 +41,30 @@ let myFunction = function(a, b){
     console.log(a+b);
 }
 
+let user = {
+    name: "Goran",
+    admin: true,
+    loggedIn: false,
+    friends: ["Fredrik", "Filippa"],
+};
+
+console.log(user)
+console.log(user.name)
+
+user.cool = true;
+
+if ("cool" in user) {
+    console.log("user is cool");
+} else {
+    console.log("user is uncool");
+}
+
+for (let property in user){
+    console.log(property);
+    console.log(user[property]);
+}
+
+let element = document.querySelector(".class");
 
 
 function action(a, p){
