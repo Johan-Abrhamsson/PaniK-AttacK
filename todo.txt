@@ -1,43 +1,30 @@
-PaniK AttacK
+1d chess
 
 Data:
 
-vad allas alingment och färg
+pjäser
 
-vilken stat countern är på
+pjäsers plasering
 
-hur många cells alla stack har *
-
-vilken action
-
-vilka id alla cells har
-
-Alla spelares Händer
-
-röster
+vilka pjäser som är kvar
 
 ---
 
 fuktioner:
 
-placeCell()
-pickingupCell()
-Idetify()
-voteing()
-checkforwinner()
+moveB()
+moveH()
+moveK()
+checkmate()
 
 ---
 
 användargränsnittet:
 
-knappar:
-vilken action.
-vem man röstar på.
-
-Slider?:
-vilken stack man väljer för allt
+vilken man rör?
 
 ---
 
 Vilka inputs:
 
+röra en pjäs
