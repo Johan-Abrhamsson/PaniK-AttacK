@@ -28,3 +28,6 @@ vilken man rör?
 Vilka inputs:
 
 röra en pjäs
+
+
+<img src="picture/wH.jpg">
